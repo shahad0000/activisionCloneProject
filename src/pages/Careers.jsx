@@ -102,7 +102,7 @@ const Careers = () => {
           <div className="w-full">
             <img
               className="w-full h-full object-cover"
-              src="public/careersFigs/EVPIconssubitem15-1710456129634.png"
+              src="/careersFigs/EVPIconssubitem15-1710456129634.png"
               alt=""
             />
           </div>
